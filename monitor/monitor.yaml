@@ -1,0 +1,12 @@
+ProjectName: monnitor
+
+Log:
+  LogPath: /home/zawx/logs
+  LogLevel: debug
+  IsStdOut: yes
+  IsPProf: yes
+  PathPProf: /home/zawx/logs/pprof
+
+
+Message:
+  Key: backend_err
